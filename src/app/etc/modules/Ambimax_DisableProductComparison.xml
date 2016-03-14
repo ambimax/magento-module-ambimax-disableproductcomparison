@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Ambimax_DisableProductComparison>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Ambimax_DisableProductComparison>
+    </modules>
+</config>

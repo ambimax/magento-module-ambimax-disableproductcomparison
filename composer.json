@@ -1,0 +1,18 @@
+{
+  "name": "ambimax/magento-module-ambimax-disableproductcomparison",
+  "license": "GPL-3.0",
+  "type": "magento-module",
+  "description": "Add support to disable product comparison to Magento 1.x",
+  "require": {
+    "php": ">=5.4",
+    "magento-hackathon/magento-composer-installer": "*"
+  },
+  "authors": [
+    {
+      "name": "Tobias Schifftner",
+      "email": "ts@ambimax.de",
+      "role": "Author/Maintainer"
+    }
+  ]
+}
+

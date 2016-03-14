@@ -1,0 +1,4 @@
+src/app/code/community/Ambimax/DisableProductComparison                             app/code/community/Ambimax/DisableProductComparison
+src/app/design/frontend/base/default/layout/ambimax/disableproductcomparison.xml    app/design/frontend/base/default/layout/ambimax/disableproductcomparison.xml
+src/app/etc/modules/Ambimax_DisableProductComparison.xml                            app/etc/modules/Ambimax_DisableProductComparison.xml
+src/app/locale/de_DE/Ambimax_DisableProductComparison.csv                           app/locale/de_DE/Ambimax_DisableProductComparison.csv
