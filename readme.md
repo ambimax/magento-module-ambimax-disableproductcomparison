@@ -5,13 +5,10 @@ This module is very basic and only adds an option to disable product comparison 
 
 ![Backend Screenshot](doc/screenshot-backend.png "Backend Screenshot")
 
-## Authors, contributors and maintainers
-
-Author:
-- [Tobias Schifftner](https://twitter.com/tschifftner)
-
-
 ## License
 
-MIT
+[MIT License](http://choosealicense.com/licenses/mit/)
 
+## Author Information
+
+ - [Tobias Schifftner](https://twitter.com/tschifftner), [ambimax® GmbH](https://www.ambimax.de)
