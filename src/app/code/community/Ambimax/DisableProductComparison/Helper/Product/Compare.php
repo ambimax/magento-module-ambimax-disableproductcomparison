@@ -2,8 +2,8 @@
 
 class Ambimax_DisableProductComparison_Helper_Product_Compare extends Mage_Catalog_Helper_Product_Compare
 {
-	const XML_PATH_COMPARE_IS_ENABLED = 'catalog/frontend/enable_product_comparison';
-	
+    const XML_PATH_COMPARE_IS_ENABLED = 'catalog/frontend/enable_product_comparison';
+
     /**
      * Retrieve url for adding product to conpare list
      *
